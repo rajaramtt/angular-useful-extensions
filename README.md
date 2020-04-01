@@ -2,8 +2,7 @@
 
 
 
-I find Some of the very useful most popular Angular extensions
-
+These Angular extensions are most popular (and some of my favorite), And It's Very useful and speeds up your Angular Development.
 
 
 ## Extensions Included
