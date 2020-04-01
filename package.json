@@ -1,8 +1,8 @@
 {
     "name": "angular-useful-extensions",
     "displayName": "Angular Useful Extensions",
-    "description": "I find Some of the very useful most popular Angular extensions.",
-    "version": "1.0.0",
+    "description": "These Angular extensions are most popular (and some of my favorite), And It's Very useful and speeds up your Angular Development.",
+    "version": "1.0.1",
     "publisher": "rajaramtt",
     "icon": "icon.png",
     "galleryBanner": {
@@ -27,8 +27,11 @@
         "Angular 8",
         "Angular 9",
         "Angular Useful Extensions",
+        "Angular Extension Pack",
+        "Angular Useful Extension Pack",
         "Angular Best Extensions",
-        "Angular TOP Extensions"
+        "Angular TOP Extensions",
+        "javascript"
     ],
     "extensionPack": [ 
         "cyrilletuzi.angular-schematics",
@@ -37,7 +40,6 @@
         "formulahendry.auto-rename-tag",
         "aaron-bond.better-comments",
         "alefragnani.Bookmarks",
-        "CoenraadS.bracket-pair-colorizer",
         "CoenraadS.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
         "odezombiech.gitignore",
@@ -51,7 +53,6 @@
         "SimonTest.simontest",
         "SonarSource.sonarlint-vscode",
         "ms-vscode.vscode-typescript-tslint-plugin",
-        "eg2.tslint",
         "vscode-icons-team.vscode-icons",
         "pranaygp.vscode-css-peek",
         "johnpapa.vscode-peacock",
@@ -62,8 +63,7 @@
         "EditorConfig.EditorConfig",
         "donjayamanne.githistory",
         "nrwl.angular-console",
-        "DSKWRK.vscode-generate-getter-setter",
-        "herrherrmann.angular-bootstrap"
+        "DSKWRK.vscode-generate-getter-setter"
 
 
     ]
